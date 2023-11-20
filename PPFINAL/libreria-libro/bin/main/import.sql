@@ -1,0 +1,15 @@
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('Abhorrent Siren', 'John Baltisberger', 'Horror', true, 10, 25.99);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('LA CASA EN LOS CONFINES DE LA TIERRA', 'William Hope Hodgson', 'Horror Cósmico', true, 20, 19.99);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('LA CRIATURA DE ALLENDE EL INFINITO Y LOS RELATOS LOVECRAFTIANOS', 'Henry Kuttner', 'Horror Cósmico', true, 19, 22.50);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('EL HABITANTE DEL LAGO Y OTROS INDESEABLES VECINOS', 'Ramsey Campbell', 'Horror Cósmico', true, 18, 18.75);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('The Body Horror Book', 'Claire Fitzpatrick', 'Body Horror', true, 20, 27.99);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('The Metamorphosis', 'Franz Kafka', 'Body Horror', true, 19, 15.50);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('LOS QUE ACECHAN EN EL ABISMO', 'Brian Lumley', 'Horror Cósmico', true, 17, 20.00);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('Dune', 'Frank Herbert', 'Ciencia Ficción', true, 20, 34.99);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('El Señor de los Anillos', 'J.R.R. Tolkien', 'Fantasía', true, 19, 40.50);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('El Hobbit', 'J.R.R. Tolkien', 'Fantasía', true, 0, 0.00);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('Las Crónicas de Narnia', 'C.S. Lewis', 'Fantasía', true, 15, 29.99);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('The Troop', 'Nick Cutter', 'Body Horror', false, 0, 0.00);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('La Guerra de los Mundos', 'H.G. Wells', 'Ciencia Ficción', true, 16, 24.50);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('El Llamado de Cthulhu y Otros Cuentos', 'H.P. Lovecraft', 'Horror Cósmico', true, 0, 0.00);
+INSERT INTO libros (titulo, autor, genero, disponibilidad, existencias, precio) VALUES ('Harry Potter y la Piedra Filosofal', 'J.K. Rowling', 'Fantasía', true, 17, 22.99);
